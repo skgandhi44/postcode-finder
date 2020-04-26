@@ -1,0 +1,28 @@
+#wrapper {
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat;
+    background-size: 100% 900px;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:block;
+    height: 50px;
+    width: 50px;
+}
+
+#form {
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	width: 500px;
+	max-width: 100%;
+    margin-top: 30px;
+    padding: 20px;
+}
